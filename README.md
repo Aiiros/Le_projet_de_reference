@@ -21,15 +21,11 @@ https://expo.io/@aiiros/projects/Le_projet_de_reference
 
 ## Installation
 
-Pour installer les dépendances `npm install`
+Pour installer les dépendances `yarn`
 
 ## Dev
 
-Pour lancer le projet en mode dev `npm start`
-
-## Lint
-
-Pour lancer le linter (esLint) `npm run lint`
+Pour lancer le projet en mode dev `yarn web`
 
 ## Deploiement
 
@@ -38,6 +34,5 @@ Pour deployer sur les serveur expo: `expo publish`
 ### Requirements
 
 ```bash
-npm install -g npm@latest
 npm install -g expo-cli
 ```
