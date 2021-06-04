@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385349697539",
+    "project_id": "le-projet-de-reference-4fa20",
+    "storage_bucket": "le-projet-de-reference-4fa20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385349697539:android:641c8415f021b5e0888e36",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385349697539-n2hvn5tl8tbq68f31p6da722nsb3f7jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkSfu25c096AOTzokhx3n1PrrVQ5IQNWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385349697539-n2hvn5tl8tbq68f31p6da722nsb3f7jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
